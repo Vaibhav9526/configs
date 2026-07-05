@@ -1,0 +1,58 @@
+{
+  "editor.linkedEditing": false,
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorBlinking": "expand",
+  "editor.fontFamily": "'Victor mono', Consolas, 'Courier New', monospace",
+  "editor.fontLigatures": true,
+  "editor.hover.enabled": "on",
+  "editor.stickyScroll.enabled": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "wordWrapColumn",
+  "editor.quickSuggestions": { "strings": "on" },
+  "editor.fontSize": 13,
+  "editor.mouseWheelZoom": true,
+  "editor.renderWhitespace": "all",
+  "editor.lineNumbers": "relative",
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "explorer.compactFolders": false,
+  "files.autoSave": "afterDelay",
+  "workbench.colorCustomizations": {
+    // Removes the border between the sidebar and the main editor
+    "sideBar.border": "#00000000",
+
+    // Removes the border between split editor windows
+    "editorGroup.border": "#00000000",
+
+    // Removes the border at the top of the editor tabs
+    "editorGroupHeader.tabsBorder": "#00000000",
+
+    // Removes the border underneath the active tab
+    "tab.activeBorder": "#00000000",
+
+    // Removes the border between individual tabs
+    "tab.border": "#00000000",
+
+    // Removes the border between the editor and the bottom status bar
+    "statusBar.border": "#00000000",
+
+    // Removes the border around the main activity bar (left icons)
+    "activityBar.border": "#00000000",
+    "terminal.background": "#1e1e1e",
+  },
+  "workbench.startupEditor": "none",
+  "workbench.editor.enablePreviewFromQuickOpen": false,
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.useInlineCompletions": true,
+  "tailwindCSS.emmetCompletions": true,
+  "gitlens.ai.model": "vscode",
+  "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.initialHint": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "breadcrumbs.enabled": false,
+  "window.menuBarVisibility": "compact",
+  "workbench.colorTheme": "Min Darkest",
+  "claudeCode.preferredLocation": "panel",
+}
